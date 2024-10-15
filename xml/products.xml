@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <product id="101" category="Electronics">
+        <name>Iphone 15</name>
+        <price>20000</price>
+    </product>
+
+   <product id="102" category="Home Appliance">
+        <name>Fridge</name>
+        <price>8000</price>
+    </product>
+
+</store>

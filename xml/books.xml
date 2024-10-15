@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    
+    <book id="1">
+        <title>How to fly?</title>
+        <author>Superman</author>
+        <year>2020</year>
+    </book>
+    
+
+    <book id="2">
+        <title>How to drive?</title>
+        <author>Batman</author>
+        <year>2021</year>
+    </book>
+</library>
